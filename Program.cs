@@ -6,6 +6,9 @@
         {
             Console.WriteLine("Hello");
             Console.WriteLine("H1232");
+            Console.WriteLine("Helo");
+            Console.WriteLine("Hlo");
+
 
         }
     }
