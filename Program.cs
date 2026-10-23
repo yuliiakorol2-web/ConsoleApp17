@@ -12,7 +12,9 @@
             int a = 5;
             int b = 10;
             int sum = a + b;
+            int minus = a - b;
             Console.WriteLine($"сума:{sum}");
+            Console.WriteLine($"різниця:{minus}");
 
 
 
