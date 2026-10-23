@@ -13,8 +13,10 @@
             int b = 10;
             int sum = a + b;
             int minus = a - b;
+            int mnozh = a * b;
             Console.WriteLine($"сума:{sum}");
             Console.WriteLine($"різниця:{minus}");
+            Console.WriteLine($"Множення:{mnozh}");
 
 
 
